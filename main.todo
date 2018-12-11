@@ -1,0 +1,23 @@
+Builder
+  [ ] Gulp / NPM scripts ?
+  [ ] Minimize images
+  [ ] SVG sprites ?
+  [ ] CSS
+    [ ] Compile SASS to 1-file
+    [ ] Use autoprefixer
+    [ ] Combine mediaqueries
+    [ ] Minimize CSS
+    [ ] Proper loading of libs
+    [ ] Organize folders / modules, helpers, etc
+    [ ] Some framework?
+  [ ] HTML
+    [ ] Use Eleventy
+    [ ] Handlebars
+    [ ] Imports / modules
+    [ ] Permalinks
+    [ ] Front-matter / page title, metadata
+    [ ] Transform about.html -> /about/index.html
+  [ ] JavaScript
+    [ ] Gulp / Webpack ?
+    [ ] Compile JS to 1-file
+    [ ] Use Babel, ES6, modules 
