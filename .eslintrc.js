@@ -20,7 +20,7 @@ module.exports = {
         ],
         "semi": [
             "error",
-            "always"
+            "never"
         ],
         "no-unused-vars": [
             "warn"
